@@ -1,0 +1,2 @@
+# OSMCoastlineR
+Coastline analysis
