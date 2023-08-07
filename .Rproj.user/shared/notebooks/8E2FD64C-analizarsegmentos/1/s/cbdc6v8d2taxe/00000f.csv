@@ -1,8 +1,0 @@
-"0","  puntos <- costaarg[j,] %>%
-   select(natural,geometry) %>%
-    st_set_agr(""constant"") %>% 
-   st_cast(""POINT"")
-"
-"2","Error in select(., natural, geometry) : 
-  no se pudo encontrar la función ""select""
-"

@@ -1,8 +1,0 @@
-"0"," puntos <- costa$osm_lines %>%
- puntos <- costa[30,] %>%
-   select(natural,geometry) %>%
-   st_set_agr(""constant"") %>% 
-   st_cast(""POINT"")
-"
-"2","Error in costa[30, ] : número incorreto de dimensiones
-"

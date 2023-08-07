@@ -1,6 +1,0 @@
-"0"," costa <- opq(bbox = recuadro) %>%
-  add_osm_feature(key = ""natural"",value = ""coastline"") %>%
-  osmdata_sf()
-"
-"2","Error: objeto 'recuadro' no encontrado
-"
