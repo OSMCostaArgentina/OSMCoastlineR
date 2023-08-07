@@ -1,0 +1,5 @@
+"0","rumbo_grados <- lwgeom::st_geod_azimuth(puntos$geometry) %>%
+  set_units(""degrees"")
+"
+"2","Error: objeto 'puntos' no encontrado
+"

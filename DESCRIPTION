@@ -1,0 +1,14 @@
+Package: OSMCoastlineR
+Type: Package
+Title: OSM Coastline analysis
+Version: 0.1.0
+Author: Andrés Esteban Duhour
+Maintainer: Andrés Esteban Duhour <aeduhour@yahoo.com.ar>
+Description: This package analizes coastline segments of OpenStreetMap
+ (tagged with natural=coastline).
+License: GPL-2
+Encoding: UTF-8
+Imports: sf, osmdata, lwgeom, units, stringr
+Suggests:rmarkdown
+RoxygenNote: 7.2.3
+VignetteBuilder: rmarkdown
